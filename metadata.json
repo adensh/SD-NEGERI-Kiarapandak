@@ -1,0 +1,6 @@
+{
+  "name": "Admin Guru KBC",
+  "description": "Sistem Administrasi Guru & Manajemen Sekolah Terpadu Kurikulum Merdeka & Kurikulum Berbasis Cinta (KBC) bertenaga AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
